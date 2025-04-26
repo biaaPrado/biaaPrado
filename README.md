@@ -51,6 +51,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/biaaPrado/biaaPrado/output/snake.svg" alt="Snake animation" />
+![Snake animation](biaaprado)
 
 ###
